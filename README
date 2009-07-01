@@ -10,7 +10,7 @@ LG FirePHP was written by Leevi Graham (http://leevigraham.com), Technical Direc
 Requirements
 ------------
 
-PHP 5
+PHP 5: http://php.net
 Firefox: http://getfirefox.com
 Firebug: http://getfirebug.com
 FirePHP: http://www.firephp.org/
@@ -20,7 +20,7 @@ Installation
 
 1. Install Firefox
 2. Install Firebug
-3. Install FirePhp
+3. Install FirePHP
 4. Enable Firebug and the console
 5. Add your site to the allowed site in the FirePHP (firebug extension) settings.
 6. Copy system/extensions/ext.lg_fire_ext.php to your extensions directory
