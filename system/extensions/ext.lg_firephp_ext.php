@@ -388,7 +388,7 @@ class Lg_firephp_ext {
 			require_once(dirname(__FILE__).'/lg_firephp_ext/FirePHPCore/fb.php');
 			if($this->settings['show_test_message'] == 'y')
 			{
-				FB::info('LG FirePHP is enabled', "Success");
+				FB::info('LG FirePHP is enabled');
 			}
 		}
 	}

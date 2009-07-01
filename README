@@ -33,4 +33,13 @@ If enabled correctly you should see some sample FirePHP output in the Firebug co
 For developers
 --------------
 
-LG FirePHP implements the FirePHP Object Oriented API. More information: http://www.firephp.org/HQ/Use.htm
+LG FirePHP implements the FirePHP Object Oriented API. 
+
+Examples:
+
+FB::info('Emails sent');
+FB::warn('Emails sent, but there were errors');
+FB::error('Unable to send emails');
+FB::dump("Email data", $email_data);
+
+More information: http://www.firephp.org/HQ/Use.htm
