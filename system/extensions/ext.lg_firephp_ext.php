@@ -16,7 +16,7 @@
 if ( ! defined('EXT')) exit('Invalid file request');
 
 define("LG_FPHP_version",			"1.0.0");
-define("LG_FPHP_docs_url",			"http://leevigraham.com/cms-customisation/expressionengine/addon/lg-firePHP/");
+define("LG_FPHP_docs_url",			"http://github.com/newism/lg.firephp.ee_addon/tree/master/");
 define("LG_FPHP_addon_id",			"LG FirePHP");
 define("LG_FPHP_extension_class",	"Lg_firephp_ext");
 define("LG_FPHP_cache_name",		"lg_cache");
